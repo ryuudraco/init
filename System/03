@@ -1,0 +1,2 @@
+Fine the hostname file inside any UNIX configuration folder then change the hostname inside the file and restart system.
+find "/etc/hostname"

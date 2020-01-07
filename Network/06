@@ -1,0 +1,4 @@
+Find the resolv.conf file which displays the DNS information
+    -find "/etc/resolv.conf"
+Viewing information on the DNS server.
+    - Can't view only discussed in theory (need more information regarding DNS server)

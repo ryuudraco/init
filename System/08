@@ -1,0 +1,3 @@
+Find the authorized_keys file in the .ssh
+    -The .ssh folder varies depending on the user.
+~/.ssh/authorized_keys

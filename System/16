@@ -1,0 +1,2 @@
+Run the cron command to setup tasks following schedule and crontab -l to view all entries.
+    - crontab -l

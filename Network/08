@@ -1,0 +1,9 @@
+Find the provider of slash16.org:
+Step 1: Command whois on UNIX system.
+        - syntax
+            - whois <domain name>
+Step 2: Grep name of the server.
+    - grep 'Name Server:'
+
+Step 3: Displaying the name.
+    - awk '{print $3}'

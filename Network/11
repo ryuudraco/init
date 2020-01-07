@@ -1,0 +1,4 @@
+Use traceroute to display all connections from initial point to end point
+    - First IP address is the local address
+    - Second IP address is the NAT router
+    - Third IP address is the public address

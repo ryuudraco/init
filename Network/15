@@ -1,0 +1,10 @@
+Using previous command to find /etc/hosts and modify the file by mapping the ip 46.19.122.85 to intra.42.fr
+
+Step 1: Viewing hosts file
+    - cat /etc/hosts
+
+Step 2: Changing ip address
+    - 127.0.0.1       localhost
+    - 255.255.255.255 broadcasthost
+    - ::1             localhost
+    - 45.19.122.85	  intra.42.fr
